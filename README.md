@@ -2,7 +2,7 @@
 
 The Machine Learning Library hosts my code base for the various Machine Learning exercises and the real world problems that I have solved and completed as part of my work on Practical Machine Learning. 
 
-Again, Machine Learning is the science (and art) of programming computers so they can learn from data.
+Afterall, Machine Learning is the science (and art) of programming computers so they can learn from data.
 
 A computer program that will learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.
 Tom Mitchell, 1997
