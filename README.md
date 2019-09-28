@@ -12,6 +12,12 @@ OR
 
 Machine learning (ML) provides a means by which programs can infer new knowledge from observational data.
 
+The Machine learning algorithms can be divided into four main categories:
+- Supervised Learning Algorithms
+- Unsupervised Learning Algorithms
+- Semi Supervised Learning Algorithms
+- Reinforcement Learning Algorithms
+
 ## The Repository
 
 The repository for Machine Learning is like a folder or storage space that contains all the files such as code, documentation, images, and more related to real-world machine learning problems. It also tracks every change that I or my team makes to each file. 
