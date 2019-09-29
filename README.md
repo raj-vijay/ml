@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning Library
 
 The Machine Learning Library hosts my code base for the various Machine Learning exercises and the real world problems that I have solved and completed as part of my work on Practical Machine Learning. 
 
